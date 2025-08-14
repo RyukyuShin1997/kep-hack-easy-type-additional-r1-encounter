@@ -10,6 +10,8 @@ Route1WildMons:
 	db  4, RATTATA
 	db  4, PIDGEY
 	db  5, PIDGEY
+	db  5, FARFETCHD
+	db  5, PORYGON
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate

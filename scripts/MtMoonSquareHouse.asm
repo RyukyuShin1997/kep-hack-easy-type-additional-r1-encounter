@@ -12,5 +12,5 @@ MtMoonSquareHouseGirl:
 	done
 
 MtMoonSquareHouseMart::
-	script_mart FRESH_WATER, SODA_POP, LEMONADE, REPEL, POKE_DOLL
+	script_mart FRESH_WATER, SODA_POP, LEMONADE, RARE_CANDY, REPEL, POKE_DOLL
 

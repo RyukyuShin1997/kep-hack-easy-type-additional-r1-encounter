@@ -9,6 +9,7 @@ Route1WildMons:
 	db  5, PIDGEY
 	db  5, FARFETCHD
 	db  5, PORYGON
+	db  5, DRATINI
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate

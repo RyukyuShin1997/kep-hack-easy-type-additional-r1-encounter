@@ -39,7 +39,7 @@ IndigoTradeNurseText:
 	script_cable_club_receptionist
 
 IndigoCashierText::
-	script_mart ULTRA_BALL, GREAT_BALL, RARE_CANDY, FULL_RESTORE, MAX_POTION, FULL_HEAL, REVIVE, MAX_REPEL
+	script_mart ULTRA_BALL, GREAT_BALL, FULL_RESTORE, MAX_POTION, FULL_HEAL, REVIVE, MAX_REPEL
 
 ExeggutorTrade:
 	text_asm
